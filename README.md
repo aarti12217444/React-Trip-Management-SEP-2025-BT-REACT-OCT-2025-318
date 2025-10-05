@@ -64,7 +64,6 @@ Clean, interactive UI using TailwindCSS
 First React + Vite + TailwindCSS project built in 1 week
 
 
-
 📚 Technologies Used
 
 React, TailwindCSS, Vite
